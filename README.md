@@ -1,4 +1,4 @@
-# Irishman Translate's Javascript SDK
+# ![Irishman Translate's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/translate-javascript/master/.github/banner.svg)
 
 Convert from one language to another.
 
