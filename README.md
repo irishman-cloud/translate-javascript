@@ -1,6 +1,9 @@
 # ![Irishman Translate's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/translate-javascript/master/.github/banner.svg)
 
-Convert from one language to another.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/translate-javascript)](https://github.com/irishman-cloud/translate-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/translate-javascript)](https://github.com/irishman-cloud/translate-javascript/issues)
+
+<b align="center">Convert from one language to another.</b>
 
 ## Table of Contents
 
